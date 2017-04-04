@@ -12,3 +12,8 @@
 1. 启动`eurekaservice`中的`EurakaServiceApp`
 2. 启动`userservice`中的`UserServiceApp`
 3. 启动`userconsole`中的`UserControllerApp`
+
+
+### 常用URL
+在启动完`userservice`时，可以通过`http://localhost:9002/swagger-ui.html`
+来查看swagger的信息。
