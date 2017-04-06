@@ -13,6 +13,7 @@
         <module>userconsole</module>
         <module>userservice</module>
         <module>common</module>
+        <module>zipkinserver</module>
     </modules>
 
     <parent>
